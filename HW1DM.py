@@ -1,4 +1,4 @@
-#Б#Библиотеки
+#Библиотеки
 from pathlib import Path
 import time
 import json
